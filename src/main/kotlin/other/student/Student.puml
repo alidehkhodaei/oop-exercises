@@ -1,0 +1,19 @@
+@startuml
+class Student {
+-name: String
+-address: String
+-numCourses: Int=0
+-courses: String[30]
+-grades : Int[30]
+{static} +MAX_COURSES:Int=30
+
++Student(name:String, address:String)
++getName():String
++getAddress():String
++setAddress():Unit
++printGrades():Unit
++calculateAverageGrade():Double
++addCourseGrade(course:String, grade:Int):Unit
++toString():String
+}
+@enduml
