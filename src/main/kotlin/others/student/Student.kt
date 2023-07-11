@@ -36,7 +36,7 @@ class Student(val name: String, var address: String) {
     override fun toString() = "name($address)"
 
     companion object {
-        const val MAX_COURSES = 30
+       private const val MAX_COURSES = 30
     }
 
 }
