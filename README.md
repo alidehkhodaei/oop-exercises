@@ -6,4 +6,5 @@ This repository contains solutions to exercises from the <a href="https://www3.n
 - <a href="https://github.com/alidehkhodaei/oop-exercises/blob/main/src/main/kotlin/others/student/Student.kt" >Student</a>
 - <a href="https://github.com/alidehkhodaei/oop-exercises/blob/main/src/main/kotlin/classes/circle/Circle.kt">Circle</a>
 - <a href="https://github.com/alidehkhodaei/oop-exercises/blob/main/src/main/kotlin/classes/rectangle/Rectangle.kt">Rectangle</a>
+- <a href="https://github.com/alidehkhodaei/oop-exercises/blob/main/src/main/kotlin/classes/employee/Employee.kt">Employee</a>
 
